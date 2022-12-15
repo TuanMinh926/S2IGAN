@@ -1,4 +1,4 @@
-data_path=data_setup
+data_path=Flickr8k
 save_root=outputs/pre_train/flickr
 cfg_file=cfg/Pretrain/flickr_train.yml
 seed=200
